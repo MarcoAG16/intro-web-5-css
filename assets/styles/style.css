@@ -1,0 +1,13 @@
+/* Estilos generales */
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* Estilo a todos los contenedores */
+.contenedores {
+    border: 2px solid orange;
+    margin: 20px;
+    padding: 20px;
+}
